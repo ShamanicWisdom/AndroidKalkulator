@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulator v1.0</string>
+    <string name="menu_simpleCalculatorButton">Tryb Podstawowy</string>
+    <string name="menu_advancedCalculatorButton">Tryb Zaawansowany</string>
+    <string name="menu_aboutButton">O Programie</string>
+    <string name="menu_exitButton">Wyjście</string>
+    <string name="welcomeString">Calculator by Szaman</string>
+    <string name="author">Szymon Zawadzki 187852</string>
+    <string name="aboutApp">Kalkulator z dwoma trybami - projekt na PAM</string>
+    <string name="backToMainMenu">Powrót</string>
+    <string name="title_activity_simple_calculator">SimpleCalculator</string>
+
+</resources>
